@@ -1,0 +1,7 @@
+azure-functions
+torch
+transformers
+fastapi
+httptools==0.1.*
+uvicorn
+gunicorn
